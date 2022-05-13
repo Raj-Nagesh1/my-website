@@ -2,7 +2,4 @@
 
 This is an awesome website
 
-
-Now updating on update-readme branch
-
-Updated locally
+Updates made on master before REBASE
